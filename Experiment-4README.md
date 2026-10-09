@@ -1,4 +1,4 @@
-EXPERIMENT – 4
+EXPERIMENT-4
 
 AIM: To perform and analyze SQL queries using INNER JOIN, LEFT JOIN, SELF JOIN, 3-way JOIN, correlated subqueries, EXISTS, and simulated INTERSECT and EXCEPT operations on the Employee–Department–Project database, and to compare their execution plans using EXPLAIN.
 
