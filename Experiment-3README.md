@@ -1,4 +1,4 @@
-# EXPERIMENT – 3
+EXPERIMENT – 3
 
 AIM: To design and implement an Employee–Department–Project database schema and perform SQL queries using Selection, Projection, Aggregate Functions, GROUP BY, HAVING, CASE expressions, and ORDER BY.
 
